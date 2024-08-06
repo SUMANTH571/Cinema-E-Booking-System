@@ -1,7 +1,7 @@
 # Cinema-E-Booking-System
 The Cinema E-Booking System is a comprehensive web-based application designed to streamline and enhance the movie booking experience for administrators and users. With a focus on usability, security, and real-time updates, the system allows users to browse a vast collection of movies, book tickets online, and manage their profiles seamlessly.
 
-This project is developed as part of the Software Engineering course (CSCI 6050) undertaken as a crucial component of my master's program. The course emphasizes the practical application of software engineering principles in designing, developing, and deploying a robust and user-friendly cinema e-booking system. The project integrates aspects of the waterfall and agile methodologies, including iterative development cycles and user feedback, to ensure a high-quality and industry-relevant solution.
+This project was developed as part of the Software Engineering course (CSCI 6050) undertaken as a crucial component of my master's program. The course emphasizes the practical application of software engineering principles in designing, developing, and deploying a robust and user-friendly cinema e-booking system. The project integrates aspects of the waterfall and agile methodologies, including iterative development cycles and user feedback, to ensure a high-quality and industry-relevant solution.
 
 # Key Features:
 
